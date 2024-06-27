@@ -26,10 +26,6 @@ Accessibility: Ensured accessibility features are included (e.g., alt texts for 
 
 Implementation Details
 
-HTML
-
-The HTML file contains the structure of the web page, including headers, footers, and main content sections. Semantic HTML tags are used for better accessibility and SEO.
-
 CSS
 
 The styles are written in CSS, following a mobile-first approach. Flexbox and Grid layouts are used to create a responsive design. Custom properties (CSS variables) are used for maintaining a consistent color scheme.
