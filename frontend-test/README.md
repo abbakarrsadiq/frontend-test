@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+Frontend Task Submission for Frontlett Ltd
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Overview
 
-## Available Scripts
+This project is a frontend implementation of the provided Figma design. The task was to translate the design into a functional web interface. The technologies used include HTML, CSS, and JavaScript.
 
-In the project directory, you can run:
+Installation and Setup
 
-### `npm start`
+To run this project locally, follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Clone the repository:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+bash git clone https://github.com/abbakarrsadiq/frontend-test.git
 
-### `npm test`
+Navigate to the project directory:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+bash cd frontend-test
 
-### `npm run build`
+Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Responsive Design: The UI is responsive and adjusts to different screen sizes. Interactive Elements: Implemented interactive elements as per the design (e.g., buttons, links). Accessibility: Ensured accessibility features are included (e.g., alt texts for images, ARIA roles).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Implementation Details
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+CSS
 
-### `npm run eject`
+The styles are written in CSS, following a mobile-first approach. Flexbox and Grid layouts are used to create a responsive design. Custom properties (CSS variables) are used for maintaining a consistent color scheme.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+React js
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+React JavaScript is used to add interactivity to the page. For example, event listeners are added to buttons for handling user interactions.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Challenges Constraint: Completing the task within the 24-hour window was challenging because I was already engaged with some tasks and greatly preoccupied but I'm fully commited to this opportunity and would like the opportunity to prove myself.. Responsiveness: Ensuring the design looked good on various devices required thorough testing and adjustments.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Conclusion
 
-## Learn More
+This task was a great opportunity to demonstrate my frontend skills. I have ensured that the implementation is faithful to the Figma design and meets the requirements outlined in the task description. Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+If you have any questions or need further clarifications, please feel free to contact me.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Name: Abubakar Muhammad Bello Email: abbakarrsadiq@gmail.com.com Phone: 07066773487
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for considering my application.
